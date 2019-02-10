@@ -26,7 +26,7 @@ The linked JS file currently prints a variation of the "button clicked" message 
 Code event listeners for the other five buttons and make sure they all work. 
 
 ### Challenge 2: Add a class
-
+ 
 Now that each button responds, make it so that when you click on a button, it adds the proper class to the target div (the big div that says "Lit!"). 
 
 ### Challenge 3: On / Off classes
